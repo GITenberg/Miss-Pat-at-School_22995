@@ -1,0 +1,29 @@
+_repo: Miss-Pat-at-School_22995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ginther, Pemberton
+    alias: Ginther, Mary Pemberton
+    birthdate: 1869
+    deathdate: 1959
+    gutenberg_agent_id: '25204'
+    url: http://www.gutenberg.org/2009/agents/25204
+description: ''
+gutenberg_issued: '2007-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22995'
+  lccn: '16002370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Art schools -- Juvenile fiction'
+title: Miss Pat at School
+url: http://www.gutenberg.org/ebooks/22995
