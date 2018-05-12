@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25204'
     url: http://www.gutenberg.org/2009/agents/25204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22995#Miss-Pat-at-School
 gutenberg_issued: '2007-10-16'
 gutenberg_type: Text
 identifiers:
